@@ -1,0 +1,21 @@
+	main{
+		width: 50%;
+		margin:5%;
+	}
+	
+	.navbar{
+		padding: 0 !important;
+	}
+
+	.navbar-brand{
+		background-color: #EC1527;
+		width: 20%;
+		padding: 20px;
+		text-align: center;
+	}
+
+	.selected-box {
+	  background: #EC1527;
+	  color:#fff;
+	  box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.06), 0 1px 0 0 rgba(0, 0, 0, 0.02);
+	}
